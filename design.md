@@ -64,3 +64,9 @@ Optimal path = Min (path)
 #### Optimal path
 Min (388.1, 358.5) = 358.5  
 Therefore path 2 is the shortest path.
+## Evidence of Groupwork
+
+The following photograph shows the group members participating
+in the discussion and development of Practical Exercise 3 in a google meet call. 
+
+(<Screenshot 2026-10-16 101532.png>)
